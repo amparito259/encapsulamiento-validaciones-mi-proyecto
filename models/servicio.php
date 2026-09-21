@@ -80,5 +80,8 @@ class Servicio {
     public function mostrarDetalle() {
         return "Servicio: $this->nombre | Categoria: $this->categoria | Precio: $$this->precio | Duracion: $this->duracionMinutos min.";
     }
+
+// Prueba de Git
+
 }
 ?>
